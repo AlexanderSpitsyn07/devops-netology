@@ -11,7 +11,11 @@
 В следующих заданиях мы будем продолжать работу с данным контейнером.
 
 ## Ответ.
-
+![Screenshot](1-1-1.png)
+![Screenshot](1-1-2.png)
+![Screenshot](1-2-3.png)
+![Screenshot](1-4.png)
+![Screenshot](1-5.png)
 ​
 ## Задача 2
 Создайте пользователя test в БД c паролем test-pass, используя:
@@ -28,7 +32,8 @@
 **приведите в ответе к задаче**.
 
 ## Ответ.
-
+![Screenshot](2-1.png)
+![Screenshot](2-2.png)
 ## Задача 3
 Установите профилирование `SET profiling = 1`.
 Изучите вывод профилирования команд `SHOW PROFILES;`.
@@ -38,7 +43,10 @@
 - на `InnoDB`
 
 ## Ответ.
-
+![Screenshot](3-1.png)
+![Screenshot](3-2.png)
+![Screenshot](3-3.png)
+![Screenshot](3-3-1.png)
 
 ## Задача 4 
 Изучите файл `my.cnf` в директории /etc/mysql.
@@ -51,5 +59,7 @@
 Приведите в ответе измененный файл `my.cnf`.
 
 ## Ответ.
+![Screenshot](4-1.png)
+![Screenshot](4-2.png)
 
 
