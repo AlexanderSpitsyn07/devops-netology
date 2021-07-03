@@ -82,7 +82,7 @@ https://github.com/AlexanderSpitsyn07/myansible/tree/master/81
 
 5. Напишите скрипт на bash: автоматизируйте поднятие необходимых контейнеров, запуск ansible-playbook и остановку контейнеров.
 
-![Screenshot](5-1.png)
+![Screenshot](3-5.png)
 
 6. Все изменения должны быть зафиксированы и отправлены в вашей личный репозиторий.
 
